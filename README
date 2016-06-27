@@ -17,7 +17,7 @@ install.packages("httr")
 install.packages("devtools")
 library(httr)
 library(devtools)
-install_github("aloth/sentiment/sentiment")
+install_github("jandziak/sentiment/sentiment")
 
 
 SOURCE CODE
