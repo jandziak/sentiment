@@ -1,4 +1,4 @@
 import(tm)
-import(snowballC)
+import(SnowballC)
 
 exportPattern("^[^\\.]")
