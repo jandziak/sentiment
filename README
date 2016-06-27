@@ -2,7 +2,7 @@ sentiment: Tools for Sentiment Analysis
 
 Description:	sentiment is an R package with tools for sentiment analysis including bayesian classifiers for positivity/negativity and emotion classification.
 Version:		0.3
-Depends:		R (≥ 2.14.0), tm, Rstem
+Depends:		R (≥ 2.14.0), tm, SnowballC
 Published:		2016-01-28
 Authors:		Timothy P. Jurka, Jeff Wong, Alexander Loth
 Maintainer:		Timothy P. Jurka <tpjurka at ucdavis.edu>
